@@ -1,0 +1,20 @@
+{
+  "name": "winurl",
+  "main": "winurl",
+  "version": "0.0.1",
+  "description": "Presents the URL or webkitURL interface from window.",
+  "author": "Chris <chris@bumblehead.com>",
+  "license" : "MIT",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iambumblehead/winurl.git"
+  },
+  "keywords": [
+    "blob",
+    "blob url",
+    "url blob",
+    "createObjectURL",
+    "webkitURL"
+  ]
+}
